@@ -25,4 +25,7 @@ The Pizza sales store wants to create an annual sales report for 2015.
 -  Gathered raw data from relevant sources, using SQL queries to extract specific datasets needed for analysis.
 - Cleaned and structured the data in Excel by removing duplicates, handling missing values, and standardizing formats.
 - Performed descriptive analysis to uncover patterns, trends, and key metrics using Excel formulas and pivot tables.
-- Built interactive dashboards in Excel with charts, slicers, and conditional formatting to visually present insights.
+- Built interactive dashboards in Excel with charts, slicers, and conditional formatting to visually present insights according to the question asked.
+
+## Dashboard
+<img width="912" height="511" alt="EXCEL PIZZA DASHBOARD" src="https://github.com/user-attachments/assets/41cd906c-f8cc-4c90-8f2e-e44f3b03da48" />
