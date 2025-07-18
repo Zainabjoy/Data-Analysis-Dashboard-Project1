@@ -5,7 +5,8 @@ The Pizza sales store wants to create an annual sales report for 2015.
 ## Dataset used:
 <a href="https://docs.google.com/spreadsheets/d/1S6_o65KXbAFXZasn_yNOhytmeu4ITcFW/edit?gid=735710272#gid=735710272" target="_blank">View the Spreadsheet</a>
 
-## Questions (KPIs)
+## Questions 
+### KPI requirement
 - Total revenue
 - The average amount per order
 - The sum of quantities of pizza sold
@@ -16,7 +17,7 @@ The Pizza sales store wants to create an annual sales report for 2015.
 -Top 5 best sellers by pizza category
 - Bottom 5 worst sellers by pizza category
 
-### Charts requirements
+### Charts requirement
 - Daily trend for total orders
 - Hourly trend for total orders
 - Percentage of sales by pizza category
